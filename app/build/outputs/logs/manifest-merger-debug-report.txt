@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\4c7851169b4cb26bab3bbd16dd80545e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c521129b5ff292b730244a1edc06a61c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0d8657404b34e0564ee7b1bb1c6a66e9\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\823b2d9e63830d547167ab3cd8482d73\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a88c892a975969703a03635ebcc62ffe\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d44e77fb2e75962708b1b0a88b81db25\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e49f84def1eb0cf3b6344a30e984600d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f86ec5a91306fe0ed2d52b44fb496fe8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\01c74d919287fd5facfe8c3cde79d172\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f68b0aac6fad6922bb6162c587741051\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\915daa9e251312da35bf3f9940cef23d\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\4c7851169b4cb26bab3bbd16dd80545e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\4c7851169b4cb26bab3bbd16dd80545e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c521129b5ff292b730244a1edc06a61c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c521129b5ff292b730244a1edc06a61c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0d8657404b34e0564ee7b1bb1c6a66e9\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0d8657404b34e0564ee7b1bb1c6a66e9\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\823b2d9e63830d547167ab3cd8482d73\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\823b2d9e63830d547167ab3cd8482d73\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a88c892a975969703a03635ebcc62ffe\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a88c892a975969703a03635ebcc62ffe\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d44e77fb2e75962708b1b0a88b81db25\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d44e77fb2e75962708b1b0a88b81db25\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e49f84def1eb0cf3b6344a30e984600d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e49f84def1eb0cf3b6344a30e984600d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f86ec5a91306fe0ed2d52b44fb496fe8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f86ec5a91306fe0ed2d52b44fb496fe8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\01c74d919287fd5facfe8c3cde79d172\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\01c74d919287fd5facfe8c3cde79d172\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f68b0aac6fad6922bb6162c587741051\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f68b0aac6fad6922bb6162c587741051\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\915daa9e251312da35bf3f9940cef23d\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\915daa9e251312da35bf3f9940cef23d\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml:11:9-40
+activity#ar.com.riojasoftware.pediloya.MainActivity
+ADDED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml:16:27-74
+activity#ar.com.riojasoftware.pediloya.Main2Activity
+ADDED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml:19:9-60
+	android:name
+		ADDED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml:19:19-48
+uses-sdk
+INJECTED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\4c7851169b4cb26bab3bbd16dd80545e\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\4c7851169b4cb26bab3bbd16dd80545e\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c521129b5ff292b730244a1edc06a61c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c521129b5ff292b730244a1edc06a61c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0d8657404b34e0564ee7b1bb1c6a66e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0d8657404b34e0564ee7b1bb1c6a66e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\823b2d9e63830d547167ab3cd8482d73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\823b2d9e63830d547167ab3cd8482d73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a88c892a975969703a03635ebcc62ffe\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a88c892a975969703a03635ebcc62ffe\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d44e77fb2e75962708b1b0a88b81db25\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d44e77fb2e75962708b1b0a88b81db25\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e49f84def1eb0cf3b6344a30e984600d\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e49f84def1eb0cf3b6344a30e984600d\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f86ec5a91306fe0ed2d52b44fb496fe8\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f86ec5a91306fe0ed2d52b44fb496fe8\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\01c74d919287fd5facfe8c3cde79d172\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\01c74d919287fd5facfe8c3cde79d172\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f68b0aac6fad6922bb6162c587741051\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f68b0aac6fad6922bb6162c587741051\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\915daa9e251312da35bf3f9940cef23d\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\915daa9e251312da35bf3f9940cef23d\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\4c7851169b4cb26bab3bbd16dd80545e\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DIEGOARIEL\Desktop\Proyectos\Pediloya\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\4c7851169b4cb26bab3bbd16dd80545e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0d8657404b34e0564ee7b1bb1c6a66e9\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0d8657404b34e0564ee7b1bb1c6a66e9\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\823b2d9e63830d547167ab3cd8482d73\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\823b2d9e63830d547167ab3cd8482d73\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a88c892a975969703a03635ebcc62ffe\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a88c892a975969703a03635ebcc62ffe\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d44e77fb2e75962708b1b0a88b81db25\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d44e77fb2e75962708b1b0a88b81db25\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e49f84def1eb0cf3b6344a30e984600d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e49f84def1eb0cf3b6344a30e984600d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f86ec5a91306fe0ed2d52b44fb496fe8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\f86ec5a91306fe0ed2d52b44fb496fe8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\01c74d919287fd5facfe8c3cde79d172\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\01c74d919287fd5facfe8c3cde79d172\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f68b0aac6fad6922bb6162c587741051\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f68b0aac6fad6922bb6162c587741051\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\4c7851169b4cb26bab3bbd16dd80545e\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\4c7851169b4cb26bab3bbd16dd80545e\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\915daa9e251312da35bf3f9940cef23d\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\915daa9e251312da35bf3f9940cef23d\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\DIEGOARIEL\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\915daa9e251312da35bf3f9940cef23d\AndroidManifest.xml:26:13-58
